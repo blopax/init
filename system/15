@@ -1,0 +1,3 @@
+sudo kill $!
+
+#si c'est pour tuer le dernier ou sudo kill $(jobs -p) pour tous les jobs runnin ou pour un specific aller voir jobs
